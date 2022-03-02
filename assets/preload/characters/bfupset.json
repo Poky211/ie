@@ -1,206 +1,206 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				217,
 				5
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-4,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				37,
 				5
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				294,
 				267
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				-40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				84,
 				-6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "bf_twt_left"
+			"fps": 24,
+			"name": "bf_twt_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				89,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "bf_twt_idle"
+			"fps": 24,
+			"name": "bf_twt_idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				65,
 				-11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "bf_twt_down"
+			"fps": 24,
+			"name": "bf_twt_down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				72,
 				6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "bf_twt_up"
+			"fps": 24,
+			"name": "bf_twt_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				71,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "bf_twt_right"
+			"fps": 24,
+			"name": "bf_twt_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				87,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "missleft"
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				68,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "missdown"
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				75,
 				3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "missup"
+			"fps": 24,
+			"name": "missup",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				73,
 				-5
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "missright"
+			"fps": 24,
+			"name": "missright",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				57,
 				-79
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "bfdead"
+			"fps": 24,
+			"name": "bfdead",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				57,
 				-111
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "bfdead"
+			"fps": 24,
+			"name": "bfdead",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/test2",
+	"image": "characters/bfupset",
 	"position": [
 		0,
 		330

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				570,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "twt_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				720,
+				-43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "twt_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "twt_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "twt_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				614,
+				-29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "twt_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/twitter2",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
